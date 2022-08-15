@@ -9,6 +9,6 @@ info symbols
 
 nm
 strace
-objdump
+objdump -D xxx | grep -A2 main..:
 objcopy
 
