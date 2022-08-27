@@ -1,5 +1,5 @@
 ## GDB, GDBTUI
-info source
+info source\n
 info local
 info variables
 info functions
