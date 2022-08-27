@@ -12,7 +12,7 @@ strace<br>
 objdump -D xxx | grep -A2 main..:<br>
 objcopy<br>
 
-########################################<br>
+########################################<br><br>
 1.) Compile with a "-g" flag:
 
     g++ -g factorial.cpp -o factorial
