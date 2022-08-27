@@ -1,14 +1,14 @@
 ## GDB, GDBTUI
-info source\n
-info local
-info variables
-info functions
-info scope function name
-info symbols
+info source<br>
+info local<br>
+info variables<br>
+info functions<br>
+info scope function name <br>
+info symbols <br>
 
 
-nm
-strace
-objdump -D xxx | grep -A2 main..:
-objcopy
+nm<br>
+strace<br>
+objdump -D xxx | grep -A2 main..:<br>
+objcopy<br>
 
