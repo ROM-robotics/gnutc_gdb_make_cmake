@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hellobot.dir/src/main.cpp.o -o hellobot 

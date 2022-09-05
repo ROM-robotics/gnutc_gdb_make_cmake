@@ -1,0 +1,3 @@
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/10 config_file/build/CMakeFiles/hellobot.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/10 config_file/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/10 config_file/build/CMakeFiles/rebuild_cache.dir

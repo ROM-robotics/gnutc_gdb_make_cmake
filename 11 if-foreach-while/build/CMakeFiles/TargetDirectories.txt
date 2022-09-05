@@ -1,0 +1,3 @@
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/11 if-foreach-while/build/CMakeFiles/hellobot.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/11 if-foreach-while/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/11 if-foreach-while/build/CMakeFiles/rebuild_cache.dir

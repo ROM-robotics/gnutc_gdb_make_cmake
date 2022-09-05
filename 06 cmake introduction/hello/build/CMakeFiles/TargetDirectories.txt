@@ -1,0 +1,3 @@
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/06 cmake introduction/hello/build/CMakeFiles/output.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/06 cmake introduction/hello/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/06 cmake introduction/hello/build/CMakeFiles/rebuild_cache.dir

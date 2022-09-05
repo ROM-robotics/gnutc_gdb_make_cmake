@@ -1,0 +1,2 @@
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/09 Variables/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/09 Variables/build/CMakeFiles/rebuild_cache.dir

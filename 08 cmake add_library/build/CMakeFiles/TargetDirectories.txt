@@ -1,0 +1,6 @@
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/08 cmake add_library/build/CMakeFiles/out.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/08 cmake add_library/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/08 cmake add_library/build/CMakeFiles/rebuild_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/08 cmake add_library/build/lib/CMakeFiles/wifi_lib.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/08 cmake add_library/build/lib/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/08 cmake add_library/build/lib/CMakeFiles/rebuild_cache.dir

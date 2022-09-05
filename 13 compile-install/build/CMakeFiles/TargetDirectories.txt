@@ -1,0 +1,7 @@
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/13 compile-install/build/CMakeFiles/hellobot.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/13 compile-install/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/13 compile-install/build/CMakeFiles/rebuild_cache.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/13 compile-install/build/CMakeFiles/list_install_components.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/13 compile-install/build/CMakeFiles/install.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/13 compile-install/build/CMakeFiles/install/local.dir
+/home/mr_robot/Desktop/gnutc_gdb_make_cmake/13 compile-install/build/CMakeFiles/install/strip.dir
